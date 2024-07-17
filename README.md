@@ -26,7 +26,7 @@ Sample Repositori
   #### Gitlab Flow
   Gut memungkinkan berbgai macam strategi percabangan dan alur kerja, Karenanya, Banyak organisasi berakhir dengan alur
 
-  *sumber informasi : [Gitlab Flow] (https:// does.gitlab.com//ee/topics/gitlab_flow.html)*
+  *sumber informasi : [Gitlab Flow] (https://docs.gitlab.com/ee/topics/gitlab_flow.html)*
   
   
 
